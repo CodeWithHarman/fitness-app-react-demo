@@ -1,4 +1,7 @@
-Check out the demo app: https://gymappdemo.netlify.app/
+Check out the demo app -> https://gymappdemo.netlify.app/
+
+
+
 
 # Getting Started with Create React App
 
